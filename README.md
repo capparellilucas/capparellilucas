@@ -15,7 +15,7 @@
  </div>
 
  <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="480" height="270" frameBorder="0">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" height="200" frameBorder="0">
  </div>
  
  <h3 align="left">Languages and Tools:</h3>
