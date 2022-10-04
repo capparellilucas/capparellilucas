@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: capparelli.lucas@gmail.com || linkedin.com/in/capparellilucas
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I play the drums :musical_score: and love sliding sports :surfer: :snowboarder:
+- ⚡ Fun fact: I play the drums 🥁 and love sliding sports 🏄‍  🏂
 
